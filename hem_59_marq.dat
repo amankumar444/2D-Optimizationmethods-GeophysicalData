@@ -1,0 +1,32 @@
+ # Data type, Curve title
+#HEM  syntheti
+ # System altitude (m)
+#   55.4300
+ # Number of frequencies
+#       5
+ # Coil separations (m)
+  6.87000000
+  6.73000000
+  6.59000000
+  6.68000000
+  6.64000000
+ # Coil orientations
+  1.0
+  1.0
+  1.0
+  1.0
+  1.0
+ # relative permittivity
+  1.0
+  1.0
+  1.0
+ # relative permeability
+  1.0
+  1.0
+  1.0
+ # Data: frequencies, In-phase, Quadrature-phase, cal-in-phase, cal-quad-phase, Rel. errors in % 
+     383.70       10.280       33.050       10.280       33.050     2.000     2.000
+     1828.00       56.690       84.880       56.690       84.880     2.000     2.000
+     8600.00       169.540       115.790       169.540       115.790     1.000     1.000
+     41290.00       310.950       88.160       310.950       88.160     1.000     1.000
+     192650.00       384.210       38.270       384.210       38.270     2.000     2.000
